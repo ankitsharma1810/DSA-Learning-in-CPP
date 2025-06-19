@@ -1,0 +1,5 @@
+// variables can only start from alphabets underscore or dollar sign _ $
+// special characters except _ $ are not allowed even after the first 
+// some particular keywords are not allowed like Auto double int break extern enum unsigned while case sizeof for const static long continue float else signed do short switch char volatile default goto struct if union return void register 
+// however these keywords like float is allowed if first letter is capital 
+// commas or blanks are not allowed
